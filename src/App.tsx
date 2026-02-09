@@ -1,4 +1,3 @@
-import './App.css'
 import { CatalogPage } from './components/CatalogPage'
 import { Footer } from './components/Footer'
 import { GlobalModals } from './components/GlobalModals'
