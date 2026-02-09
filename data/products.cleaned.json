@@ -1,0 +1,478 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "price": 9.99,
+      "rating": 2.56,
+      "reviewCount": 3,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+      ],
+      "stock": 99,
+      "discountPercentage": 10.48
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "price": 19.99,
+      "rating": 2.86,
+      "reviewCount": 3,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "stock": 34,
+      "discountPercentage": 18.19
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "price": 14.99,
+      "rating": 4.64,
+      "reviewCount": 3,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ],
+      "stock": 89,
+      "discountPercentage": 9.84
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "price": 12.99,
+      "rating": 4.36,
+      "reviewCount": 3,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+      ],
+      "stock": 91,
+      "discountPercentage": 12.16
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "price": 8.99,
+      "rating": 4.32,
+      "reviewCount": 3,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+      ],
+      "stock": 79,
+      "discountPercentage": 11.44
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "price": 49.99,
+      "rating": 4.37,
+      "reviewCount": 3,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+      ],
+      "stock": 29,
+      "discountPercentage": 1.89
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "price": 129.99,
+      "rating": 4.26,
+      "reviewCount": 3,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+      ],
+      "stock": 58,
+      "discountPercentage": 16.51
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "price": 89.99,
+      "rating": 3.8,
+      "reviewCount": 3,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+      ],
+      "stock": 98,
+      "discountPercentage": 14.72
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "price": 69.99,
+      "rating": 3.96,
+      "reviewCount": 3,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+      ],
+      "stock": 4,
+      "discountPercentage": 0.62
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "price": 79.99,
+      "rating": 2.74,
+      "reviewCount": 3,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
+      ],
+      "stock": 91,
+      "discountPercentage": 14.39
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "price": 1899.99,
+      "rating": 4.77,
+      "reviewCount": 3,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+      ],
+      "stock": 88,
+      "discountPercentage": 8.57
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "price": 2499.99,
+      "rating": 3.92,
+      "reviewCount": 3,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+      ],
+      "stock": 60,
+      "discountPercentage": 14.4
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "price": 299.99,
+      "rating": 2.87,
+      "reviewCount": 3,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+      ],
+      "stock": 64,
+      "discountPercentage": 19.09
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "price": 499.99,
+      "rating": 4.88,
+      "reviewCount": 3,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+      ],
+      "stock": 26,
+      "discountPercentage": 2.01
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "price": 799.99,
+      "rating": 3.59,
+      "reviewCount": 3,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
+      ],
+      "stock": 7,
+      "discountPercentage": 8.8
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "price": 1.99,
+      "rating": 4.19,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "stock": 8,
+      "discountPercentage": 12.62
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "price": 12.99,
+      "rating": 4.47,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "stock": 86,
+      "discountPercentage": 9.61
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "price": 8.99,
+      "rating": 3.13,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "stock": 46,
+      "discountPercentage": 9.58
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "price": 9.99,
+      "rating": 3.19,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "stock": 97,
+      "discountPercentage": 13.7
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "price": 4.99,
+      "rating": 4.8,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "stock": 10,
+      "discountPercentage": 9.33
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "price": 1.49,
+      "rating": 4.07,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+      ],
+      "stock": 84,
+      "discountPercentage": 0.16
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "price": 10.99,
+      "rating": 4.55,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+      ],
+      "stock": 71,
+      "discountPercentage": 10.27
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "price": 2.99,
+      "rating": 2.53,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+      ],
+      "stock": 9,
+      "discountPercentage": 11.05
+    },
+    {
+      "id": 24,
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "price": 14.99,
+      "rating": 3.78,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+      ],
+      "stock": 74,
+      "discountPercentage": 4.23
+    },
+    {
+      "id": 25,
+      "title": "Green Bell Pepper",
+      "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+      "price": 1.29,
+      "rating": 3.25,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+      ],
+      "stock": 33,
+      "discountPercentage": 0.16
+    },
+    {
+      "id": 26,
+      "title": "Green Chili Pepper",
+      "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+      "price": 0.99,
+      "rating": 3.66,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+      ],
+      "stock": 3,
+      "discountPercentage": 1
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "price": 6.99,
+      "rating": 3.97,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+      ],
+      "stock": 34,
+      "discountPercentage": 14.4
+    },
+    {
+      "id": 28,
+      "title": "Ice Cream",
+      "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+      "price": 5.49,
+      "rating": 3.39,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+      ],
+      "stock": 27,
+      "discountPercentage": 8.69
+    },
+    {
+      "id": 29,
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "price": 3.99,
+      "rating": 3.94,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+      ],
+      "stock": 50,
+      "discountPercentage": 12.06
+    },
+    {
+      "id": 30,
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "price": 2.49,
+      "rating": 4.93,
+      "reviewCount": 3,
+      "category": "groceries",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+      ],
+      "stock": 99,
+      "discountPercentage": 15.22
+    }
+  ]
+}
