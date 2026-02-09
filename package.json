@@ -13,7 +13,7 @@
     "test:ui": "vitest --ui"
   },
   "engines": {
-    "node": ">=18"
+    "node": "20.x"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
