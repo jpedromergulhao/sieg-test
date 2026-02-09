@@ -10,6 +10,8 @@
 
 Foco em **performance**, **simplicidade**, **UX mobile-first** e **código testável**.
 
+Live demo: https://sieg-test.vercel.app/
+
 ---
 
 ## Stack
